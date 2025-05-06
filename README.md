@@ -1,2 +1,3 @@
-Discord: seekyct
-Revolt: SeekyCt#7133
+Discord: `seekyct`
+
+Revolt: `SeekyCt#7133`
