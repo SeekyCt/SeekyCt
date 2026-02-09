@@ -1,3 +1,3 @@
 Discord: `seekyct`
 
-Revolt: `SeekyCt#7133`
+Stoat (Revolt): `SeekyCt#7133`
